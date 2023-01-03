@@ -1,10 +1,10 @@
 body{
     background:rgb(236, 65, 65) ;
-    font: normal 15pt Arial;
-   
+    font: normal 15pt oblique;
+   background-image: url("amo.jpg");
 }
 header{
-color: white;
+color: rgb(18, 76, 235);
 text-align: center;
 
 }
@@ -23,5 +23,13 @@ color: white;
 text-align: center;
 font-style: italic;
 }
-   
-
+#bot{background: #ea09cc;
+	color: white;
+	border-style: outset;
+	border-color: #eb0a89;
+	height: 30px;
+	width: 70px;
+	font: bold 15px arial,sans-serif;
+	text-shadow: none;
+  margin-left: 190px;
+}
